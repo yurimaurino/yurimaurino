@@ -4,7 +4,7 @@ Olá 👋
 Eu sou o Yuri 👩‍💻
 
 🏝 Eu sou de São Paulo, Brasil <br>
-💜 Apaixonado por Desenvolvimento de Software <br>
+❤️ Apaixonado por Desenvolvimento de Software <br>
 📚 Estudante. 
 
 
@@ -13,7 +13,7 @@ Eu sou o Yuri 👩‍💻
 I'm Yuri 👩‍💻
 
 🏝 I'm from São Paulo, Brazil <br>
-💜 A Software Development enthusiast <br>
+❤️ A Software Development enthusiast <br>
 📚 Student. 
 
 
