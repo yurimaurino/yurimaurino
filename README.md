@@ -1,7 +1,7 @@
 Olá 👋
 
 
-Eu sou o Yuri 👩‍💻
+Eu sou o Yuri 👨‍💻
 
 🏝 Eu sou de São Paulo, Brasil <br>
 ❤️ Apaixonado por Desenvolvimento de Software <br>
